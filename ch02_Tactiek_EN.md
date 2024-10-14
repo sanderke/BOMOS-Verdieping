@@ -501,7 +501,7 @@ graph TD;
     quality-->practice;
     product-->standard;
     process-->organisation;
-    practice->implementation;
+    practice-->implementation;
 ```
   <figcaption>Het kwaliteitmodel</figcaption>
 </figure>
